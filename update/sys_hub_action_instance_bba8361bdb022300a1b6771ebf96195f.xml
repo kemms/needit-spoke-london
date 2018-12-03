@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">c3c08db5db8a2300a1b6771ebf961967</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="">22e87cfddb4a2300a1b6771ebf9619bd</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Action Test Flow">ffa8361bdb022300a1b6771ebf961956</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 20:28:52</sys_created_on>
+        <sys_id>bba8361bdb022300a1b6771ebf96195f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_41881_needit_spo">19c868addb022300a1b6771ebf96190e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">19c868addb022300a1b6771ebf96190e</sys_scope>
+        <sys_update_name>sys_hub_action_instance_bba8361bdb022300a1b6771ebf96195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 20:28:52</sys_updated_on>
+        <ui_id>f612d939-a344-4877-91df-804456bbd73b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=bba8361bdb022300a1b6771ebf96195f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>bba8361bdb022300a1b6771ebf96195f</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 20:28:52</sys_created_on>
+        <sys_id>3fa8361bdb022300a1b6771ebf961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 20:28:52</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">8fc08db5db8a2300a1b6771ebf961969</variable>
+    </sys_variable_value>
+</record_update>
